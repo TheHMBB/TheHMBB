@@ -21,8 +21,9 @@ jobs:
         with:
           github_user_name: TheHMBB
           outputs: dist/github-contribution-grid-snake.svg
-          theme: github-dark
+          color_snake: '#40ff40'
           color_dots: '#d1d5da,#8abeb7,#81a2be,#b294bb,#cc6666'
+          theme: github-dark
 
       - name: Push to Snake branch
         uses: crazy-max/ghaction-github-pages@v4
