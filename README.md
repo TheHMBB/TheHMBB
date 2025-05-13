@@ -3,7 +3,7 @@
 
 
 
-![Snake animation](https://github.com/TheHMBB/TheHMBB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TheHMBB/TheHMBB/blob/Snake/github-contribution-grid-snake.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TheHMBB&theme=tokyonight&hide_border=true)
 
