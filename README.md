@@ -3,7 +3,6 @@
 
 
 
-![Snake animation](https://github.com/TheHMBB/TheHMBB/blob/Snake/github-contribution-grid-snake.svg)
 ![GitHub Snake Dark](https://github.com/TheHMBB/TheHMBB/blob/Snake/github-contribution-grid-snake-dark.svg)
 
 
