@@ -6,6 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHMBB)]()
 
-![Snake animation](https://github.com/TheHMBB/TheHMBB/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=40C9FF&vCenter=true&width=435&lines=Hello+World!+I'm+TheHMBB;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
 
 
