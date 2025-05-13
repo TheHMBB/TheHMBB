@@ -6,3 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHMBB)]()
 
+![Snake animation](https://github.com/TheHMBB/TheHMBB/blob/output/github-contribution-grid-snake.svg)
+
+
