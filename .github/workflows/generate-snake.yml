@@ -27,6 +27,6 @@ jobs:
         with:
           target_branch: Snake
           build_dir: dist
-          theme: dracula
+          color_dots: '#d1d5da,#8abeb7,#81a2be,#b294bb,#cc6666'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
